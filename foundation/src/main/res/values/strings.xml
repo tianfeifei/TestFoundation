@@ -1,0 +1,31 @@
+<resources>
+    <!-- 时间 -->
+    <string name="date_format_hhmm">HH:mm</string>
+    <string name="date_format_mmdd">M月d日</string>
+    <string name="date_format_mmddhhmm">M月d日 HH:mm</string>
+    <string name="date_format_MMddHHmmssSSS">MM-dd HH:mm:ss.SSS</string>
+    <string name="date_format_yyyymmdd">yyyy年M月d日</string>
+    <string name="date_format_yyyymmdd2">yyyy-MM-dd</string>
+    <string name="date_format_yyyymmdd3">yyyy.MM.dd</string>
+    <string name="date_format_yyyymmdd4">yyyyMMdd</string>
+    <string name="date_format_yyyymmdd5">yyyy-MM-dd HH:mm</string>
+    <string name="date_format_yyyymmddhhmm">yyyy-M-d  HH:mm</string>
+    <string name="date_format_yyyyMMdd">yyyy-MM-dd HH:mm:ss</string>
+    <string name="date_format_yyyymmddhhmm2">yyyy年M月d日  HH:mm</string>
+    <string name="date_format_yyyymmddhhmmss">yyyy-MM-dd HH:mm:ss</string>
+    <string name="date_format_yyyymmddhhmmss2">yyyy/MM/dd  HH:mm:ss</string>
+    <string name="date_format_yyyymmddhhmmss3">yyyy.MM.dd.  HH:mm:ss</string>
+    <string name="vaild_time_format">%1$s 至 %2$s </string>
+    <string name="vaild_time_format2">%1$s - %2$s </string>
+    <string name="vaild_time_format3">%1$s \n- %2$s </string>
+    <string name="vaild_the_same_time_format">%1$s 当天有效 </string>
+    <string name="from_the_end_of_time">还有%1$d天到期</string>
+    <string name="due_today">今天到期</string>
+    <string name="use_ticket_time">于%1$s使用</string>
+    <string name="deal_surplus_time_format_dh">剩余：%1$d天%2$d小时</string>
+    <string name="deal_surplus_time_format_hm">剩余：%1$d小时%2$d分钟</string>
+    <string name="deal_surplus_time_format_m">剩余：%1$d分钟</string>
+    <string name="zero">0%1$d</string>
+    <string name="sample_activity">示列Activity</string>
+    <string name="title_activity_fram">FramActivity</string>
+</resources>
